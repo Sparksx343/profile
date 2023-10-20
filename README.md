@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Ley Chang</h1>
 <h3 align="center">A passionate fullstack developer from México</h3>
 
-- 🔭 I’m currently working on [Yogo ERP V2](private gitlab server)
+- 🔭 I’m currently working on web apps
 
 - 🌱 I’m currently learning **Java and improve my english skills**
 
