@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm David Ley Chang</h1>
-<h3 align="center">A passionate fullstack developer from México</h3>
+<h1 align="center">Hola 👋, puedes llamarme solo David o Sparksx</h1>
+<h3 align="center">Un desarrollador fullstack de México</h3>
 
-- 🔭 I’m currently working on web apps
+- 🚀 En mi día a día, disfruto resolviendo desafíos complejos y aprendiendo nuevas tecnologías para mejorar mis habilidades. Me considero un eterno estudiante en constante evolución en el mundo del desarrollo web.
 
-- 🌱 I’m currently learning **Java and improve my english skills**
+- 🌱 Me encanta aprender cosas nuevas todos los días y si es de programación o del ámbito tecnológico aún mejor 😁
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 💼 Actualmente, estoy buscando oportunidades emocionantes para colaborar en proyectos interesantes y seguir creciendo profesionalmente en el campo de la tecnología.
 
-- 💬 Ask me about **Javascript, Nuxtjs, Vuejs, Python.**
+- 💬 Si necesitas ayuda en algún proyecto web puedo apoyarte 🤗
 
-- 📫 How to reach me **ley.chang@hotmail.com**
+- 💻 Desarrollador web full stack con experiencia en la creación de aplicaciones web innovadoras y robustas. Conocimientos en lenguajes como Javascript, Php, Python, TypeScript, C, C++, C#, CSS, SASS y actualmente ando aprendiendo Flutter para desarrrollo móvil.
 
-- 📄 Know about my experiences [Most programming experience base on web development, but i love programming on all platform ❤️](Most programming experience base on web development, but i love programming on all platform ❤️)
+- ✉️ Contacto <a href="mailto:ley.chang@hotmail.com">Mi correo electronico</a>
 
-- ⚡ Facts about me **I really enjoin socialize but at beggining i'm reserved.**
+  <h2 align="left">🎓 Certificaciones:</h2>
+- 🖥️ <a href="https://www.freecodecamp.org/certification/sparksx/responsive-web-design">Diseño web responsivo</a>
+- 🧑‍💻 <a href="https://www.freecodecamp.org/certification/sparksx/foundational-c-sharp-with-microsoft">Foundational c# with Microsoft</a>
+- 📋 <a href="https://www.freecodecamp.org/certification/sparksx/javascript-algorithms-and-data-structures">Javascript algoritmos y estructuras de datos</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
