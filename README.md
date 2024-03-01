@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, puedes llamarme solo David o Sparksx</h1>
+<h1 align="center">Hola 👋, soy David Ley o puedes llamarme sparksx</h1>
 <h3 align="center">Un desarrollador fullstack de México</h3>
 
 - 🚀 En mi día a día, disfruto resolviendo desafíos complejos y aprendiendo nuevas tecnologías para mejorar mis habilidades. Me considero un eterno estudiante en constante evolución en el mundo del desarrollo web.
